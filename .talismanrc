@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: src/main.rs
+  checksum: 806b417b162aa822e0d31fc558498179ae147bd27e56dd5facfc14a11292c7d4
+- filename: src/mysql.rs
+  checksum: e0f4051e770904f28c60deaa4fc9cfce64ebf4d800e7d4001945f06a2a0cf9b7
+version: "1.0"
